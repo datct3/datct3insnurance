@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="DATCT3INSURANCE.COM" resolutions="1x,2x" timestamp="1491535655794">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3774875186" ref="music:about:sports:news:contact:index"/>
+    <file name="music.css" crc="3916808416" ref="music"/>
+    <file name="about.css" crc="4200177195" ref="about"/>
+    <file name="sports.css" crc="3867792136" ref="sports"/>
+    <file name="news.css" crc="361105794" ref="news"/>
+    <file name="contact.css" crc="244107913" ref="contact"/>
+    <file name="index.css" crc="396736100" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:sports:music:news:contact"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:sports:music:news:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:sports:music:news:contact"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:about:sports:music:news:contact"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:sports:music:news:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:sports:news"/>
+    <file name="webpro.js" crc="3986320349" ref="index:news:contact"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:news"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:news"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:news"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:sports:music:news:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:sports:music:news:contact"/>
+    <file name="require.js" crc="4159430777" ref="index:about:sports:music:news:contact"/>
+    <file name="form_check.php" crc="303648844" ref="contact"/>
+    <file name="form_throttle.php" crc="236764551" ref="contact"/>
+    <file name="form_process.php" crc="4272079531" ref="contact"/>
+    <file name="form-u1007.php" crc="204292509" ref="contact"/>
+    <file name="form-u1131.php" crc="4130212420" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u190-4.png" crc="3774844614" ref="index:about:sports:music:news:contact"/>
+    <file name="u190-4_2x.png" crc="105833717" ref="index:about:sports:music:news:contact"/>
+    <file name="u165-4.png" crc="274570069" ref="index:about:sports:music:news:contact"/>
+    <file name="u165-4_2x.png" crc="351088620" ref="index:about:sports:music:news:contact"/>
+    <file name="u139-4_2x.png" crc="457056517" seo="true" ref="index:about:sports:music:news:contact"/>
+    <file name="u139-4_2x_2x.png" crc="34511089" seo="true" ref="index:about:sports:music:news:contact"/>
+    <file name="u126-4.png" crc="368396800" seo="true" ref="index:about:sports:music:news:contact"/>
+    <file name="u132-4_2x.png" crc="525196159" seo="true" ref="index:about:sports:music:news:contact"/>
+    <file name="u132-4_2x_2x.png" crc="3867449491" seo="true" ref="index:about:sports:music:news:contact"/>
+    <file name="u651-4.png" crc="3949175036" ref="index"/>
+    <file name="u651-4_2x.png" crc="3818088371" ref="index"/>
+    <file name="20228i1-u657-fr.png" crc="3993944343" ref="index"/>
+    <file name="20228i1-u657-fr_2x.png" crc="3836505888" ref="index"/>
+    <file name="16002855_1847915732156053_3790666382114172293_n-crop-u634-u658-fr.jpg" crc="92046678" ref="index"/>
+    <file name="16002855_1847915732156053_3790666382114172293_n-crop-u634-u658-fr_2x.jpg" crc="3768144815" ref="index"/>
+    <file name="b60146eaafb528a190b65e6df4fb6043-u659-fr.jpg" crc="321500245" ref="index"/>
+    <file name="b60146eaafb528a190b65e6df4fb6043-u659-fr_2x.jpg" crc="392448272" ref="index"/>
+    <file name="20228i1.png" crc="4039970295" ref="index:sports"/>
+    <file name="16002855_1847915732156053_3790666382114172293_n-crop-u634.jpg" crc="3786200126" ref="index:news"/>
+    <file name="b60146eaafb528a190b65e6df4fb6043.jpg" crc="4111971151" ref="index:news"/>
+    <file name="u899-4.png" crc="372919826" ref="news"/>
+    <file name="u899-4_2x.png" crc="495343484" ref="news"/>
+    <file name="16002855_1847915732156053_3790666382114172293_n-crop-u634128x83.jpg" crc="3800979528" seo="true" ref="news"/>
+    <file name="16002855_1847915732156053_3790666382114172293_n-crop-u634128x83_2x.jpg" crc="3786576392" seo="true" ref="news"/>
+    <file name="trees.jpg" crc="97703958" seo="true" ref="news"/>
+    <file name="trees_2x.jpg" crc="182145501" seo="true" ref="news"/>
+  </folder>
+  <file name="index.html" crc="376778593" seo="true" mt="1491535630290" redirect="true"/>
+  <file name="about.html" crc="4066423514" seo="true" mt="1491433799644" redirect="true"/>
+  <file name="sports.html" crc="93518917" seo="true" mt="1491433799644" redirect="true"/>
+  <file name="music.html" crc="211656836" seo="true" mt="1491433799644" redirect="true"/>
+  <file name="news.html" crc="3902930891" seo="true" mt="1491433799644" redirect="true"/>
+  <file name="contact.html" crc="3925697022" seo="true" mt="1491433799644" redirect="true"/>
+</manifest>
